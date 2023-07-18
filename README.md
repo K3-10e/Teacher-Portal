@@ -1,7 +1,7 @@
 # Important Note
 
 This program will not work properly because the firebase keys are hidden, even if you run the export it will not work properly.
-To view the actual site, visit [here](https://c868-capstone.firebaseapp.com/login)
+To view the actual site, visit [here](https://c868-capstone.firebaseapp.com/login). The login credentials will work there
 
 # Start program
  1. run `npm install` if no node_modules folder
